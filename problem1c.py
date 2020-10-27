@@ -11,7 +11,8 @@ class Greetings:
 
 
 
-print('What\'s your name?')
+#print('What\'s your name?')
+print('what is the name you go by?')
 n = input()
 print(Greetings.say_hi(n))
 
